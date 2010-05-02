@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/MAfifi/myWrittenPrograms/c++Programs/privatePrograms/need4speed/main.cpp
+config.h
+-
+fstream
+-
+numeric
+-
+stdlib.h
+-
+vector
+-
+
